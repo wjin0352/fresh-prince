@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+
+body {
+  background-color: orange;
+  text-align: center;
+  color: beige;
+  /*margin: 0 auto;*/
+  font-family: arial, "new times roman", serif;
+}
+
