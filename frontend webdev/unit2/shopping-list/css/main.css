@@ -1,0 +1,41 @@
+/* SITE WIDE */
+html {
+  box-sizing: border-box;
+
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  font-family: 'Indie Flower', cursive;
+}
+
+/*reference lines on divs*/
+div {
+  border: 1px solid red;
+}
+
+
+/* TOP HEADER SECTION */
+   header {
+    height: 120px;
+  }
+
+  div > #title, input {
+    display: inline-block;
+    margin-left: 40%;
+  }
+
+  #title {
+    padding-right: 0.5em;
+  }
+
+  .input-title {
+    font-size: 2em;
+  }
+
+/* BDOY LIST-TODOS SECTION */
+
+
+
+
+/* BODY MAIN-TODOS SECTION */
